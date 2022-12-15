@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500;700&family=Montserrat:wght@400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #25272E;
+}
+
+header {
+    background: white;
+    padding: 20px;
+}
+
+header > h1 {
+    color: #25272E;
+    text-align: center;
+    font-family: Asap, sans-serif;
+}
