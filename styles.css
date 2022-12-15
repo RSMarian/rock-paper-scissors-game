@@ -80,10 +80,19 @@ header > h1 {
 
 .choices {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 .choice:hover {
     cursor: pointer;
     background: #21222a;
+}
+
+#action-message {
+    text-align: center;
+    color: white;
+    font-family: Asap, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 20px;
 }
