@@ -20,3 +20,8 @@ header > h1 {
     text-align: center;
     font-family: Asap, sans-serif;
 }
+
+.image {
+    height: 100px;
+    width: 100px;
+}
