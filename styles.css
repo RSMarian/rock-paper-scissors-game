@@ -21,6 +21,18 @@ header > h1 {
     font-family: Asap, sans-serif;
 }
 
+.score-board {
+    border: 3px solid white;
+    border-radius: 5px;
+    width: 200px;
+    margin: 20px auto;
+    color: white;
+    text-align: center;
+    font-family: Asap, sans-serif;
+    font-size: 46px;
+    padding: 15px 20px;
+}
+
 .image {
     height: 100px;
     width: 100px;
